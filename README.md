@@ -48,10 +48,9 @@ Users can upload a photo of any clothing item (e.g., a red hoodie), and the app 
 
 ## **📸 Screenshots**
 
-| Home Screen | AI Analyzer | Dynamic Suggestions |
+| Home Screen | AI Analyzer |
 |:---:|:---:|:---:|
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
-
+| <img src="new_images/home_screen.png" width="250"> | <img src="new_images/login_page.png" width="250"> |
 ---
 
 ## **🔧 Setup Instructions**
