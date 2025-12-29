@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278013796994",
+    "project_id": "outfit-matcher-29856",
+    "storage_bucket": "outfit-matcher-29856.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278013796994:android:b2dd36bab390c617490a9b",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMz0ZnKbDkbmKhlDxNPEdwf5s2ytfR1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
